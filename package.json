@@ -25,7 +25,7 @@
     "mysql2": "^1.6.5",
     "nodemailer": "^6.3.0",
     "nodemailer-express-handlebars": "^3.1.0",
-    "sequelize": "^5.8.7",
+    "sequelize": "^5.15.1",
     "youch": "^2.0.10",
     "yup": "^0.27.0"
   },
